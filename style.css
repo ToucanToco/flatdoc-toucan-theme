@@ -306,10 +306,10 @@ a:hover {
 .content h2 {
   text-transform: uppercase;
   letter-spacing: 1px;
-  font-size: 1.5em;
+  font-size: 1.8em;
 }
 .content h3 {
-  font-size: 1.2em;
+  font-size: 1.5em;
 }
 .content h1,
 .content h2,
@@ -361,6 +361,7 @@ body:not(.big-h3) .content h3 {
   color: #9090aa;
   padding-top: 30px;
   padding-bottom: 10px;
+  font-size: 1.3em;
 }
 body:not(.big-h3) .content h3 {
   font-size: 0.9em;
