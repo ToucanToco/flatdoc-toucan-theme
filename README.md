@@ -9,4 +9,4 @@ Code in `style.styl` and then:
 In your `flatdoc.html` file:
 
     <!-- Flatdoc theme -->
-    <link  href='https://cdn.rawgit.com/ToucanToco/flatdoc-toucan-theme/style.css' rel='stylesheet'>
+    <link href='https://cdn.rawgit.com/ToucanToco/flatdoc-toucan-theme/master/style.css' rel='stylesheet'>
